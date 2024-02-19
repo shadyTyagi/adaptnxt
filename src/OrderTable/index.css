@@ -1,0 +1,179 @@
+.panding-card-details-topic {
+  display: flex;
+
+  align-items: center;
+  width: 100%;
+}
+
+.card-checkbox {
+  margin-left: 69px;
+}
+
+.head {
+  font-size: 12px;
+  font-weight: 600;
+  font-family: "Roboto";
+}
+
+.channel {
+  overflow-y: scroll;
+  width: 80px;
+  height: 20px;
+  border-right: 1px solid grey;
+  margin-left: 40px;
+}
+
+.orderno {
+  overflow-y: scroll;
+  width: 200px;
+  height: 20px;
+  border-right: 1px solid grey;
+  margin-left: 10px;
+}
+
+.order-date {
+  overflow-y: scroll;
+  width: 120px;
+  height: 20px;
+  border-right: 1px solid grey;
+  margin-left: 10px;
+}
+
+.city {
+  overflow-y: scroll;
+  width: 90px;
+  height: 20px;
+  border-right: 1px solid grey;
+  margin-left: 10px;
+}
+
+.customer-name {
+  overflow-y: scroll;
+  width: 200px;
+  height: 20px;
+  border-right: 1px solid grey;
+  margin-left: 10px;
+}
+
+.order-value {
+  overflow-y: scroll;
+  width: 60px;
+  border-right: 1px solid grey;
+  margin-left: 10px;
+}
+
+.status {
+  overflow-y: scroll;
+  width: 170px;
+  height: 20px;
+  border-right: 1px solid grey;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.customer-detail-card {
+  display: flex;
+  border-bottom: 1px solid rgb(199, 196, 196);
+}
+
+.first {
+  border-top: 1px solid rgb(199, 196, 196);
+}
+
+.add {
+  margin-right: 55px;
+}
+
+.shopify-img {
+  height: 50px;
+  margin-left: 40px;
+}
+
+.customer-order-no {
+  margin-left: 40px;
+  font-size: 13px;
+  font-family: "Roboto";
+  color: rgb(19, 146, 225);
+}
+
+.customer-order-date {
+  margin-left: 125px;
+  font-size: 13px;
+  font-weight: 400;
+  font-family: "Roboto";
+}
+
+.customer-city {
+  margin-left: 70px;
+  font-size: 13px;
+  font-weight: 400;
+  font-family: "Roboto";
+}
+
+.name-customer {
+  margin-left: 50px;
+  font-size: 13px;
+  font-weight: 400;
+  font-family: "Roboto";
+}
+
+.customer-order-value {
+  margin-left: 135px;
+  font-size: 13px;
+  font-weight: 400;
+  font-family: "Roboto";
+}
+
+.customer-order-pending {
+  margin-left: 55px;
+  font-size: 13px;
+  font-weight: 400;
+  font-family: "Roboto";
+}
+
+.customer-operation {
+  margin-left: 135px;
+  font-size: 13px;
+  font-weight: 400;
+  font-family: "Roboto";
+  height: 20px;
+  margin-top: 15px;
+}
+
+.backword-forwaord-card {
+  display: flex;
+  justify-content: flex-end;
+  margin-bottom: 40px;
+  margin-top: 20px;
+  margin-right: 300px;
+}
+
+.arrow {
+  border: 1px solid rgb(174, 172, 172);
+  color: lightgray;
+  width: 25px;
+  height: 25px;
+  text-align: center;
+  margin-right: 5px;
+  background-color: transparent;
+}
+
+.page-no {
+  border: 1px solid rgb(16, 110, 232);
+  color: rgb(16, 110, 232);
+  width: 25px;
+  height: 25px;
+  margin-left: 5px;
+  margin-right: 5px;
+  text-align: center;
+  background-color: transparent;
+}
+
+.pages {
+  width: 100px;
+  height: 25px;
+  border: 1px solid rgb(174, 172, 172);
+}
+/* .checkbox-input{}
+
+*/
